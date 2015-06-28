@@ -3,7 +3,7 @@
 #Load Library
 library(ggplot2)
 #Set path
-setwd("/Users/manikhanuja/Documents/R Workspace/ExploratoryAnalysis/CourseProject2/data")
+setwd("/R Workspace/ExploratoryAnalysis/CourseProject2/data")
 
 #Read rds file
 NEI <- readRDS("summarySCC_PM25.rds")
